@@ -67,9 +67,7 @@ My goal is to build reliable, production-ready systems using modern DevOps pract
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashPatel0&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashPatel0&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=YashPatel0&hide_border=true" />
 </p>
 ---
 
