@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-patel-b58626226)
 [![Email](https://img.shields.io/badge/Email-yashpatel22150%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashpatel22150@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-YashPatel0-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YashPatel0)
-![Profile Views](https://komarev.com/ghpvc/?username=YashPatel0&style=for-the-badge&color=39d353&label=PROFILE+VIEWS)
 
 </div>
 
